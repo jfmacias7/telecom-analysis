@@ -127,21 +127,5 @@ jupyter notebook
 - **Análisis ejecutivo:** Hallazgos y recomendaciones para stakeholders
 - **Datos:** Los 3 CSVs originales
 
----
-
-## 💬 Próximos pasos
-
-- [ ] Modelo ML para predecir quién se va a ir
-- [ ] Análisis por ciudad (¿comportamientos diferentes?)
-- [ ] A/B testing de nuevos planes
-- [ ] Análisis de LTV (cuánto vale cada cliente)
-
----
-
-## 👤 Autor
-
-Hecho por mí como análisis de datos. Si tienes dudas o sugerencias, abre un issue o PR.
-
----
 
 **Nota:** Los datos son ficticios (creados para el análisis). El método es real y aplicable a cualquier empresa de telecomunicaciones.
