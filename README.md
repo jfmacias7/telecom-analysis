@@ -46,24 +46,13 @@ Analicé datos de **4,000 clientes** de ConnectaTel para:
 
 ## 🚀 Cómo ejecutar
 
-### Opción 1: Google Colab (fácil)
+### Google Colab
 1. Ve a [Google Colab](https://colab.research.google.com/)
 2. Abre desde GitHub: pega la URL del repo
 3. Ejecuta las celdas (Shift + Enter)
 
 **Ventaja:** No necesitas instalar nada.
 
-### Opción 2: En tu compu (local)
-```bash
-# Clonar el repo
-git clone [https://github.com/jfmacias7/telecom-analysis.git]
-cd conectatel-analysis
-
-# Instalar librerías
-pip install -r requirements.txt
-
-# Abrir Jupyter
-jupyter notebook
 ```
 
 ---
