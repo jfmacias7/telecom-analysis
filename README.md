@@ -56,7 +56,7 @@ Analicé datos de **4,000 clientes** de ConnectaTel para:
 ### Opción 2: En tu compu (local)
 ```bash
 # Clonar el repo
-git clone https://github.com/tu-usuario/conectatel-analysis.git
+git clone [https://github.com/tu-usuario/conectatel-analysis.git](https://github.com/jfmacias7/telecom-analysis.git)
 cd conectatel-analysis
 
 # Instalar librerías
