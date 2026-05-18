@@ -29,7 +29,6 @@ Analicé datos de **4,000 clientes** de ConnectaTel para:
 
 ```
 ├── README.md (este archivo)
-├── requirements.txt
 │
 ├── notebooks/
 │   └── ConnectaTel_Analisis_Clientes.ipynb
